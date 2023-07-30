@@ -1,4 +1,3 @@
-"use client";
 import { motion } from "framer-motion";
 import React from "react";
 
@@ -26,7 +25,7 @@ function About({}: Props) {
       <div className="space-y-4 sm:space-y-10 px-0 md:px-10">
         <h4 className="text-2xl sm:text-4xl font-semibold">
           Here is a{" "}
-          <span className="underline decoration-[#08d463]/50 decoration-wavy">
+          <span className="underline wavy text-[#08d463]/50 decoration-wavy">
             little
           </span>{" "}
           background
@@ -38,8 +37,8 @@ function About({}: Props) {
           experiences. Step into my portfolio, where I showcase my journey in
           building robust web applications that blend cutting-edge
           technology.Besides coding I have a passion for gaming and have
-          competed in e-sport tournaments. I also coach other in both gaming and
-          programming on how to excel and be better
+          competed in e-sport tournaments. I also coach others in both gaming
+          and programming on how to excel and be better
         </p>
       </div>
     </motion.div>
