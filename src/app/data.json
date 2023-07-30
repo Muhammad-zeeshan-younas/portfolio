@@ -1,0 +1,116 @@
+{
+  "company": [
+    {
+      "role": "Fullstack Developer",
+      "company": "Gainimpact",
+      "joining": "June 2022",
+      "keyPoints": [
+        "Full Stack Developer proficient in React, Ruby, and Shopify.",
+        "Utilize Tailwind CSS for efficient styling.",
+        "Contribute to real-life projects.",
+        "Integrating different AI's and services for accurate results.",
+        "Collaborative team player with strong problem-solving skills."
+      ]
+    }
+  ],
+  "services": [
+    {
+      "category": "UI/UX Services",
+      "services": [
+        "Intuitive and visually appealing UI designs",
+        "Streamlined user flows and intuitive navigation",
+        "Accessibility-focused designs for inclusivity",
+        "Engaging animations and delightful interactions"
+      ]
+    },
+    {
+      "category": "Mobile Responsiveness",
+      "services": [
+        "Fully responsive designs for all screen sizes",
+        "Seamless user experiences on smartphones and tablets",
+        "Mobile-first approach for optimal performance",
+        "Retina-ready graphics for stunning visuals"
+      ]
+    },
+    {
+      "category": "Backend Development",
+      "services": [
+        "Robust server-side logic and database design",
+        "Secure API development for seamless integrations",
+        "Scalable architecture for future growth",
+        "Real-time data processing and handling"
+      ]
+    },
+    {
+      "category": "Performance Optimization",
+      "services": [
+        "Page speed optimization for faster loading times",
+        "Efficient caching mechanisms for improved performance",
+        "Minification and compression of assets",
+        "Server tuning for optimal response times"
+      ]
+    },
+    {
+      "category": "Custom Web Solutions",
+      "services": [
+        "Custom feature development to match unique requirements",
+        "Personalized UI/UX designs reflecting your brand identity",
+        "Scalable and future-proof solutions",
+        "Collaboration to bring your vision to life"
+      ]
+    },
+    {
+      "category": "E-commerce Development",
+      "services": [
+        "High-performance e-commerce websites",
+        "Seamless shopping experiences with secure payment gateways",
+        "Inventory management and order processing systems",
+        "Conversion-focused designs for increased sales"
+      ]
+    },
+    {
+      "category": "Content Management Systems (CMS)",
+      "services": [
+        "Integration of user-friendly CMS platforms",
+        "Intuitive admin panels for effortless content management",
+        "Training and support for managing your website",
+        "Customization to align with your specific needs"
+      ]
+    },
+    {
+      "category": "Website Redesign",
+      "services": [
+        "Refreshed UI/UX designs to meet current trends",
+        "Responsive layouts for enhanced user experiences",
+        "Improved SEO and user engagement",
+        "Seamless migration of existing content"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "link": "https://my-social-media.vercel.app/",
+      "image": "/insta.png",
+      "name": "Insagram",
+      "description": "Insagram-clone for educational purpose where you can create posts and like each others post a place to connect with others"
+    },
+    {
+      "link": "https://tapp.events/",
+      "image": "/tapp_mockup.png",
+      "name": "tapp",
+      "description": "Tapp is an innovative event management system designed to revolutionize the way events are organized and run. As the lead developer of this project, I successfully spearheaded the creation of a seamless and efficient platform that allows event attendees to place orders directly through our website, eliminating the need for a middle man to manage counters or handle sales for our clients."
+    },
+    {
+      "link": "https://turkijeonderweg.nl/tr",
+      "image": "/vignette.png",
+      "name": "Vignette",
+      "description": "Vignette is an extraordinary e-commerce project that stands out as a testament to my expertise in delivering exceptional online shopping experiences. As the lead developer for this Shopify-based project, I led the development and successful launch of a feature-rich e-commerce website that specializes in selling vignettes, granting users the freedom to drive in various countries for specified durations."
+    },
+    {
+      "link": "https://elysee-app-m9mo5.ondigitalocean.app/",
+      "image": "/elysee.png",
+      "name": "Elysee",
+      "description": "Elysee represents a groundbreaking collaboration with Dietiest, revolutionizing the healthcare industry by providing an AI-powered platform to facilitate weight reduction and personalized diet planning. As a key member of the development team for this Rails-based project, I played a crucial role in crafting a sophisticated system that empowers patients to fill out detailed forms, while enabling doctors to leverage AI algorithms to suggest highly tailored and effective diet plans."
+    }
+  ]
+}
