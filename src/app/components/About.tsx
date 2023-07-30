@@ -31,9 +31,9 @@ function About({}: Props) {
           background
         </h4>
         <p className="text-sm sm:text-base lg:text-lg tracking-wider text-justify">
-          I'm Zeeshan.I've been coding for over a year now as a Full Stack
-          developer I've worked with startups to help build & scale their
-          companies, dedicated to crafting seamless and innovative web
+          I&apos;m Zeeshan.I&apos;ve been coding for over a year now as a Full
+          Stack developer I&apos;ve worked with startups to help build & scale
+          their companies, dedicated to crafting seamless and innovative web
           experiences. Step into my portfolio, where I showcase my journey in
           building robust web applications that blend cutting-edge
           technology.Besides coding I have a passion for gaming and have
