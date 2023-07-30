@@ -21,7 +21,6 @@
     "next": "13.4.5",
     "npm": "^9.8.1",
     "react": "18.2.0",
-    "react-awesome-shapes": "^0.1.12",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.45.2",
     "react-icon": "^1.0.0",
