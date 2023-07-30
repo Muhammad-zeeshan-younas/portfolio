@@ -1,15 +1,18 @@
 "use client";
 import React from "react";
-import {
-  AiFillGithub,
-  AiFillGoogleCircle,
-  AiFillLinkedin,
-} from "react-icons/ai";
+import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 import { motion } from "framer-motion";
+import { saveAs } from "file-saver";
 
 type Props = {};
 
 function Navbar({}: Props) {
+  const handleDownloadCV = () => {
+    const fileName = "zeeshan.pdf";
+    const fileURL = `/${fileName}`;
+    saveAs(fileURL, fileName);
+  };
+
   return (
     <header className="flex flex-grow justify-between p-5 items-center sticky top-0 z-20 max-w-7xl mx-auto">
       <motion.div
@@ -39,6 +42,7 @@ function Navbar({}: Props) {
         </a>
       </motion.div>
       <motion.button
+        onClick={() => handleDownloadCV()}
         key="download-cv"
         initial={{
           x: 200,
